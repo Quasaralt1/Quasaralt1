@@ -8,18 +8,18 @@ Tenho 16 anos, sou de Campinas e atualmente moro em Araraquara, Brasil. Estou cu
 Meu principal objetivo é cursar uma faculdade no exterior em Segurança da Informação ou Desenvolvimento de Sistemas, áreas pelas quais sou apaixonado e nas quais pretendo atuar profissionalmente. No momento, estou em busca de oportunidades de estágio na área de tecnologia para ganhar experiência prática e aprofundar meus conhecimentos.
 
 <p align="left">
-    <a href="https://github.com/felipemmattia?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Quasaralt1?tab=repositories&sort=stargazers">
         <img 
             alt="Total de Estrelas" 
             title="Total de Estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/felipemmattia?color=7a7a7a&style=for-the-badge&labelColor=3b3b3b&logo=star&label=Estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Quasaralt1?color=7a7a7a&style=for-the-badge&labelColor=3b3b3b&logo=star&label=Estrelas"
         />
     </a>
-    <a href="https://github.com/felipemmattia?tab=followers">
+    <a href="https://github.com/Quasaralt1?tab=followers">
         <img 
             alt="Total de Seguidores" 
             title="Total de Seguidores no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/felipemmattia?color=7a7a7a&labelColor=3b3b3b&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Quasaralt1?color=7a7a7a&labelColor=3b3b3b&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -58,6 +58,6 @@ Meu principal objetivo é cursar uma faculdade no exterior em Segurança da Info
     align="left" 
     alt="Linguagens Mais Usadas" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemmattia&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quasaralt1&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5&locale=pt-br" 
   />
 </p>
