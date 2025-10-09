@@ -62,3 +62,4 @@ Meu principal objetivo é cursar uma faculdade no exterior em Segurança da Info
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quasaralt1&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5&locale=pt-br" 
   />
 </p>
+![snake gif](https://github.com/Quasaralt1/Quasaralt1/blob/output/github-contribution-grid-snake.svg)
