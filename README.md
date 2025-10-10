@@ -60,8 +60,10 @@ Meu principal objetivo é cursar uma faculdade no exterior em Segurança da Info
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quasaralt1&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5&locale=pt-br"
   />
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 </p>
+<br/>
+<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Quasaralt1)](https://git.io/streak-stats)
 <br/>
 <br/>
 <picture>
