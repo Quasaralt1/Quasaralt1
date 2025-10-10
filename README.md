@@ -63,7 +63,7 @@ Meu principal objetivo é cursar uma faculdade no exterior em Segurança da Info
 </p>
 <br/>
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Quasaralt1)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lake-sigma.vercel.app?user=Quasaralt1&theme=rust-ferris-dark&hide_border=true&border_radius=10&locale=pt_BR&card_width=500&card_height=200" alt="GitHub Streak" /></a>
 <br/>
 <br/>
 <picture>
