@@ -53,16 +53,13 @@ Meu principal objetivo é cursar uma faculdade no exterior em Segurança da Info
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Quasaralt1&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
-
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lake-sigma.vercel.app?user=Quasaralt1&theme=rust-ferris-dark&hide_border=true&border_radius=10&locale=pt_BR&card_width=500&card_height=200" alt="GitHub Streak" /></a>
   <img 
     align="left" 
     alt="Linguagens Mais Usadas" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quasaralt1&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5&locale=pt-br"
   />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lake-sigma.vercel.app?user=Quasaralt1&theme=rust-ferris-dark&hide_border=true&border_radius=10&locale=pt_BR&card_width=500&card_height=200" alt="GitHub Streak" /></a><p/>
-</p>
-
 </p>
 
 <br/>
