@@ -70,4 +70,3 @@ Meu principal objetivo é cursar uma faculdade no exterior em Segurança da Info
 </p>
 <br/>
 <br/>
-![snake gif](https://github.com/Quasaralt1/Quasaralt1/blob/output/github-snake-dark.svg)
