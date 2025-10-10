@@ -64,9 +64,4 @@ Meu principal objetivo é cursar uma faculdade no exterior em Segurança da Info
 </p>
 <br/>
 <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quasaralt1/Quasaralt1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Quasaralt1/Quasaralt1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Quasaralt1/Quasaralt1/output/github-contribution-grid-snake.svg">
-</picture>
-
+![snake gif](https://github.com/Quasaralt1/Quasaralt1/blob/output/github-snake-dark.svg)
