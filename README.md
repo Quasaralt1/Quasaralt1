@@ -44,6 +44,8 @@ Meu principal objetivo é cursar uma faculdade no exterior em Segurança da Info
 <br/>
 <br/>
 ### 📊 Estatísticas
+<br/>
+<br/>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lake-sigma.vercel.app?user=Quasaralt1&theme=rust-ferris-dark&hide_border=true&border_radius=10&locale=pt_BR&card_width=500&card_height=200" alt="GitHub Streak" /></a>
 <p>
   <img 
