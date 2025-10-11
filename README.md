@@ -18,14 +18,14 @@ Meu principal objetivo é cursar uma faculdade no exterior em Engenharia de soft
     <a href="https://github.com/Quasaralt1?tab=repositories&type=forks">
         <img 
             alt="Total of Forks" 
-            title="GitHub Total Forks" 
+            title="Total de forks no Github" 
             src="https://custom-icon-badges.demolab.com/github/stars/Quasaralt1?color=7a7a7a&style=for-the-badge&labelColor=3b3b3b&logo=fork&label=Forks"
         />
     </a>
     <a href="https://github.com/Quasaralt1?tab=followers">
         <img 
             alt="Total Followers" 
-            title="GitHub Total Followers" 
+            title="Total de Seguidores no Github" 
             src="https://custom-icon-badges.demolab.com/github/followers/Quasaralt1?color=7a7a7a&labelColor=3b3b3b&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
