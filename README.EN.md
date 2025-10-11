@@ -28,6 +28,7 @@ My main goal is to pursue a degree abroad in software Engineering or Computer sc
             src="https://custom-icon-badges.demolab.com/github/followers/Quasaralt1?color=7a7a7a&labelColor=3b3b3b&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
+    </a>
 </p>
 
 ##
