@@ -15,6 +15,13 @@ Meu principal objetivo é cursar uma faculdade no exterior em Segurança da Info
             src="https://custom-icon-badges.demolab.com/github/stars/Quasaralt1?color=7a7a7a&style=for-the-badge&labelColor=3b3b3b&logo=star&label=Estrelas"
         />
     </a>
+    <a href="https://github.com/Quasaralt1?tab=repositories&type=forks">
+        <img 
+            alt="Total of Forks" 
+            title="GitHub Total Forks" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Quasaralt1?color=7a7a7a&style=for-the-badge&labelColor=3b3b3b&logo=fork&label=Forks"
+        />
+    </a>
     <a href="https://github.com/Quasaralt1?tab=followers">
         <img 
             alt="Total de Seguidores" 
@@ -47,20 +54,20 @@ Meu principal objetivo é cursar uma faculdade no exterior em Segurança da Info
 <br/>
 
 <p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lake-sigma.vercel.app?user=Quasaralt1&theme=dark&hide_border=false&border_radius=10&locale=pt_BR&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lake-sigma.vercel.app?user=Quasaralt1&theme=dark&hide_border=false&border_radius=10&locale=en-US&card_width=500&card_height=200" alt="GitHub Streak" /></a>
   <img 
     align="left" 
     alt="Estatísticas do GitHub" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Quasaralt1&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Quasaralt1&show_icons=true&theme=dark&include_all_commits=true&locale=en-us" 
   />
     
   <img 
     align="left" 
     alt="Linguagens Mais Usadas" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quasaralt1&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quasaralt1&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5&locale=en-us"
   />
 </p>
 
