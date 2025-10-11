@@ -73,7 +73,7 @@ My main goal is to pursue a degree abroad in Information Security or Systems Dev
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quasaralt1/Quasaralt1/Quasaralt1/github-contribution-grid-snake-grey-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Quasaralt1/Quasaralt1/output/github-contribution-grid-snake-grey-light.svg">
-  <img alt="Github Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Quasaralt1/Quasaralt1/output/github-contribution-grid-snake-grey-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Quasaralt1/Quasaralt1/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Quasaralt1/Quasaralt1/blob/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Quasaralt1/Quasaralt1/blob/output/github-snake-dark.svg">
 </picture>
