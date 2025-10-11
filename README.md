@@ -50,7 +50,6 @@ Meu principal objetivo é cursar uma faculdade no exterior em Engenharia de soft
 
 <br/>
 <br/>
-##
 
 ### 📊 Estatísticas  
 <p>
