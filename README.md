@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Murilo M. de Mattia
 
-[🇧🇷 Português](./README.pt.md) | [🇺🇸 English](./README.md)
+[🇧🇷 Português](./README.md) | [🇺🇸 English](./README.EN.md)
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
