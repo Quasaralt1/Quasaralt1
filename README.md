@@ -60,14 +60,14 @@ Meu principal objetivo é cursar uma faculdade no exterior em Segurança da Info
     alt="Estatísticas do GitHub" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Quasaralt1&show_icons=true&theme=dark&include_all_commits=true&locale=en-us" 
+    src="https://github-readme-stats.vercel.app/api?username=Quasaralt1&show_icons=true&theme=dark&include_all_commits=true&locale=en-US" 
   />
     
   <img 
     align="left" 
     alt="Linguagens Mais Usadas" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quasaralt1&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5&locale=en-us"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quasaralt1&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5&locale=en-US"
   />
 </p>
 
