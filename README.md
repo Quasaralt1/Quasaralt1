@@ -69,9 +69,14 @@ Meu principal objetivo é cursar uma faculdade no exterior em Engenharia de soft
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quasaralt1&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5"
   />
 </p>
-
 <br/>
 <br/>
+📫 Contact
+<p align="center">
+  <a href="mailto:murilomattia09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-murilomattia09%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 <br/>
 <br/>
 <picture>
