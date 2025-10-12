@@ -56,7 +56,7 @@ Meu principal objetivo é cursar uma faculdade no exterior em Engenharia de soft
 <p align=center>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lake-sigma.vercel.app?user=Quasaralt1&theme=dark&hide_border=false&border_radius=10&&locale=pt-BR&card_width=500&card_height=200" alt="GitHub Streak" /></a>
   <img 
-    align="left" 
+    align="center" 
     alt="Estatísticas do GitHub" 
     height="200" 
     style="padding-right: 10px;" 
@@ -64,7 +64,7 @@ Meu principal objetivo é cursar uma faculdade no exterior em Engenharia de soft
   />
     
   <img 
-    align="left" 
+    align="center" 
     alt="Linguagens Mais Usadas" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quasaralt1&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5"
