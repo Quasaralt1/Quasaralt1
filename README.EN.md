@@ -1,5 +1,7 @@
 # 👩🏻‍💻 Murilo M. de Mattia
 
+---
+
 [🇧🇷 Português](./README.md) | [🇺🇸 English](./README.EN.md)
 
 **`System Development Student`**
@@ -28,10 +30,17 @@ My main goal is to pursue a degree abroad in software Engineering or Computer sc
             src="https://custom-icon-badges.demolab.com/github/followers/Quasaralt1?color=7a7a7a&labelColor=3b3b3b&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
-    </a>
+    <a href="https://komarev.com/ghpvc/?username=Quasaralt1">
+  <img 
+    alt="Visualizações de perfil" 
+    title="Visualizações de perfil" 
+    src="https://komarev.com/ghpvc/?username=Quasaralt1&label=Views&color=7a7a7a&style=for-the-badge&labelColor=3b3b3b" 
+  />
+</a>
+
 </p>
 
-##
+---
 
 ### 🤖 Technologies and Languages
 
@@ -49,29 +58,38 @@ My main goal is to pursue a degree abroad in software Engineering or Computer sc
 <img align="left" alt="Opencv" title="Opencv" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
 
 <br/>
-<br/>
 
-##
+---
 
-### 📊 Stats
-
-<p>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lake-sigma.vercel.app?user=Quasaralt1&theme=dark&hide_border=false&border_radius=10&locale=en_US&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+### 📊 Stats  
+<p align="left">
   <img 
-    align="left" 
-    alt="Github stats" 
+    src="https://github-readme-streak-stats-lake-sigma.vercel.app?user=Quasaralt1&theme=dark&hide_border=false&border_radius=10" 
+    alt="GitHub Streak" 
+    height="200"
+  />
+  <img 
+    alt="Estatísticas do GitHub" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Quasaralt1&show_icons=true&theme=dark&include_all_commits=true" 
   />
-
   <img 
-    align="left" 
-    alt="Top Languages" 
+    alt="Linguagens Mais Usadas" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quasaralt1&theme=dark&layout=compact&custom_title=Technologies&langs_count=5" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quasaralt1&theme=dark&layout=compact&custom_title=Languagues&langs_count=5"
   />
 </p>
+
+---
+
+### 📫 Contacts
+<p align="center">
+  <a href="mailto:murilomattia09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-murilomattia09%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Quasaralt1/Quasaralt1/blob/output/github-snake-dark.svg">
