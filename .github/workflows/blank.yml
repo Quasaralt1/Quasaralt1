@@ -34,7 +34,7 @@ jobs:
             dist/github-snake.gif?color_snake=#00ff00&color_dots=#64a1f4,#4b91f1,#3c7dd9,#2b65d9,#1b45a0
 
       # 📦 Publica o resultado na branch `output
-            - name: Deploy to Output Branch
+      - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
