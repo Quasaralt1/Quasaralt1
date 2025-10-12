@@ -48,6 +48,7 @@ Meu principal objetivo é cursar uma faculdade no exterior em Engenharia de soft
 <img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="Opencv" title="Opencv" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
 
+<br/>
 ---
 
 ### 📊 Estatísticas  
