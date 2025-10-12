@@ -48,8 +48,7 @@ Meu principal objetivo é cursar uma faculdade no exterior em Engenharia de soft
 <img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="Opencv" title="Opencv" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
 
-<br/>
-<br/>
+---
 
 ### 📊 Estatísticas  
 <p>
@@ -69,8 +68,8 @@ Meu principal objetivo é cursar uma faculdade no exterior em Engenharia de soft
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quasaralt1&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5"
   />
 </p>
-<br/>
-<br/>
+
+---
 
 ### 📫 Contact
 <p align="center">
@@ -78,8 +77,9 @@ Meu principal objetivo é cursar uma faculdade no exterior em Engenharia de soft
     <img src="https://img.shields.io/badge/Email-murilomattia09%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-<br/>
-<br/>
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Quasaralt1/Quasaralt1/blob/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Quasaralt1/Quasaralt1/blob/output/github-snake.svg">
