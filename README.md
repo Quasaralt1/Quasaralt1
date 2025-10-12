@@ -26,10 +26,19 @@ Meu principal objetivo é cursar uma faculdade no exterior em Engenharia de soft
         <img 
             alt="Total Followers" 
             title="Total de Seguidores no Github" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Quasaralt1?color=7a7a7a&labelColor=3b3b3b&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Quasaralt1?color=7a7a7a&labelColor=3b3b3b&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    ![](https://komarev.com/ghpvc/?username=Quasaralt1&color=gray)
+    <a href="https://komarev.com/ghpvc/?username=Quasaralt1">
+  <img 
+    alt="Visualizações de perfil" 
+    title="Visualizações de perfil" 
+    src="https://komarev.com/ghpvc/?username=Quasaralt1&label=Visualizações&color=7a7a7a&style=for-the-badge&labelColor=3b3b3b" 
+  />
+</a>
+
+    
+    
 </p>
 
 ---
