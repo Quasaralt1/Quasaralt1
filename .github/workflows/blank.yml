@@ -1,44 +1,44 @@
-name: GitHub Snake Game
+name: Generate Snake Animation 🐍
 
 on:
+  # Executa todos os dias à meia-noite (UTC)
   schedule:
     - cron: "0 0 * * *"
+
+  # Permite rodar manualmente em Actions
   workflow_dispatch:
+
+  # Roda quando houver commit na branch main
   push:
     branches:
       - main
 
-permissions:
-  contents: write
-
 jobs:
   generate:
-    concurrency:
-      group: snake
-      cancel-in-progress: true
-
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      # 🧱 Clona o repositório
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
+      # 🧠 Gera a animação da cobrinha com cores personalizadas
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=green&color_dots=#b3ff66,#64a1f4,#4b91f1,#3c7dd9,#2b65d9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/github-snake.svg?color_snake=#00ff00&color_dots=#64a1f4,#4b91f1,#3c7dd9,#2b65d9,#1b45a0
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00ff00&color_dots=#64a1f4,#4b91f1,#3c7dd9,#2b65d9,#1b45a0
+            dist/github-snake.gif?color_snake=#00ff00&color_dots=#64a1f4,#4b91f1,#3c7dd9,#2b65d9,#1b45a0
 
+      # 📦 Publica o resultado na branch `output`
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "Update snake animation [skip ci]"
+          force_orphan: true
+          commit_message: "Update Snake Animation 🐍 [skip ci]"
