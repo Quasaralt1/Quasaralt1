@@ -7,7 +7,7 @@
 Tenho 16 anos, sou de Campinas e atualmente moro em Araraquara, Brasil. Estou cursando o ensino médio no SESI junto com um curso técnico integrado em Manutenção Automotiva no SENAI. Também estudo Desenvolvimento de Sistemas na ETEC e participo ativamente da equipe de robótica da minha escola, competindo na Olimpíada Brasileira de Robótica (OBR).  
 Meu principal objetivo é cursar uma faculdade no exterior em Engenharia de software ou Ciência da Computação, áreas pelas quais sou apaixonado e nas quais pretendo atuar profissionalmente. No momento, estou em busca de oportunidades de estágio na área de tecnologia para ganhar experiência prática e aprofundar meus conhecimentos.
 
-<p align="left">
+<p>
     <a href="https://github.com/Quasaralt1?tab=repositories&sort=stargazers">
         <img 
             alt="Total de Estrelas" 
