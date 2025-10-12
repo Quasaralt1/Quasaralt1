@@ -71,7 +71,8 @@ Meu principal objetivo é cursar uma faculdade no exterior em Engenharia de soft
 </p>
 <br/>
 <br/>
-📫 Contact
+
+### 📫 Contact
 <p align="center">
   <a href="mailto:murilomattia09@gmail.com">
     <img src="https://img.shields.io/badge/Email-murilomattia09%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
