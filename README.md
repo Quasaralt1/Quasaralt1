@@ -71,6 +71,8 @@ Meu principal objetivo é cursar uma faculdade no exterior em Engenharia de soft
   />
 </p>
 
+<br/>
+
 ---
 
 ### 📫 Contact
