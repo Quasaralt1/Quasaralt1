@@ -1,44 +1,44 @@
-name: generate animation
+name: Generate Snake Animation 🐍
 
 on:
-  # run automatically every 24 hours
+  # Executa todos os dias à meia-noite (UTC)
   schedule:
-    - cron: "0 */24 * * *" 
-  
-  # allows to manually run the job at any time
+    - cron: "0 0 * * *"
+
+  # Permite rodar manualmente em Actions
   workflow_dispatch:
-  
-  # run on every push on the master branch
+
+  # Roda quando houver commit na branch main
   push:
     branches:
-    - master
-    
-  
+      - main
 
 jobs:
   generate:
-    permissions: 
-      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
+    timeout-minutes: 10
+
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      # 🧱 Clona o repositório
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 🧠 Gera a animação da cobrinha com cores personalizadas
+      - name: Generate GitHub Contributions Snake Animations
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.Quasaralt1 }}
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake:green
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark?color_snake:green
-          
-          
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+            dist/github-snake.svg?color_snake=#00ff00&color_dots=#64a1f4,#4b91f1,#3c7dd9,#2b65d9,#1b45a0
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00ff00&color_dots=#64a1f4,#4b91f1,#3c7dd9,#2b65d9,#1b45a0
+            dist/github-snake.gif?color_snake=#00ff00&color_dots=#64a1f4,#4b91f1,#3c7dd9,#2b65d9,#1b45a0
+
+      # 📦 Publica o resultado na branch `output
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
+          commit_message: "Update Snake Animation 🐍 [skip ci]"
