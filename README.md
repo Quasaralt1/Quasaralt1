@@ -89,7 +89,6 @@ Meu principal objetivo é cursar uma faculdade no exterior em Engenharia de soft
 <p align="center">
   <a href="mailto:murilomattia09@gmail.com">
     <img src="https://img.shields.io/badge/Email-murilomattia09%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-moreira-de-mattia-752909329/" />
   </a>
 </p>
 
