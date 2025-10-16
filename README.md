@@ -73,7 +73,7 @@ Meu principal objetivo é cursar uma faculdade no exterior em Engenharia de soft
   <img 
     alt="Estatísticas do GitHub" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Quasaralt1&show_icons=true&theme=dark&include_all_commits=true" .
+    src="https://github-readme-stats.vercel.app/api?username=Quasaralt1&show_icons=true&theme=dark&include_all_commits=true&locale=pt-BR" .
   />
   <img 
     alt="Linguagens Mais Usadas" 
