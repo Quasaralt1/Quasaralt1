@@ -75,9 +75,9 @@ My main goal is to pursue a degree abroad in software Engineering or Computer sc
     src="https://github-readme-stats.vercel.app/api?username=Quasaralt1&show_icons=true&theme=dark&include_all_commits=true" 
   />
   <img 
-    alt="Linguagens Mais Usadas" 
+    alt="Most used Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quasaralt1&theme=dark&layout=compact&custom_title=Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quasaralt1&theme=dark&layout=compact"
   />
 </p>
 
