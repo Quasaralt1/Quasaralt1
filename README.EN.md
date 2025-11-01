@@ -58,6 +58,7 @@ My main goal is to pursue a degree abroad in software Engineering or Computer sc
 <img align="left" alt="C#" title="Opencv" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="Opencv" title="Opencv" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
 <img align="left" alt="Azure" title="Azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
+<img align="left" alt="RaspberryPi" title="RaspberryPi" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"/>
 
 <br/>
 
